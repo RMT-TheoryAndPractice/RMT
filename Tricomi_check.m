@@ -1,5 +1,5 @@
 %%% This short code performs a numerical check of the Tricomi equation 
-%%% (5.15), where n*(x) is the semicircle density. The density is computed
+%%% (5.14), where n*(x) is the semicircle density. The density is computed
 %%% over a number Npts of points in the interval (-sqrt(2),sqrt(2)). The
 %%% value in each point s is computed as a principal value integral, i.e.
 %%% by splitting the integration domain (a,b) into two parts (a,s-eps)
