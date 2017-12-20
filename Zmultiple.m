@@ -1,5 +1,5 @@
 %%% This program provides a numerical verification that equations (15.2)
-%%% and (15.7) coincide in a 2x2 case. The program generates a random 2x2
+%%% and (15.6) coincide in a 2x2 case. The program generates a random 2x2
 %%% GOE matrix H and uses it to compute the numerical value of Z(x)
 %%% according to the two formulas. You will be asked to choose the real and
 %%% imaginary parts of the number x (imaginary part has to be positive).
